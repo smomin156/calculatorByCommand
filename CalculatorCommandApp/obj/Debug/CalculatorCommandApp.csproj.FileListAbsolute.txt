@@ -1,0 +1,17 @@
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\bin\Debug\CalculatorCommandApp.exe.config
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\bin\Debug\CalculatorCommandApp.exe
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\bin\Debug\CalculatorCommandApp.pdb
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.csproj.AssemblyReference.cache
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\MainWindow.g.cs
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\App.g.cs
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp_MarkupCompile.cache
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp_MarkupCompile.lref
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\MainWindow.baml
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.g.resources
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.Properties.Resources.resources
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.csproj.GenerateResource.cache
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.csproj.CoreCompileInputs.cache
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.exe
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\CalculatorCommandApp.pdb
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TRAINING\WPF-BhavanaMaam\CalculatorCommandApp\CalculatorCommandApp\obj\Debug\App.baml
